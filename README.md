@@ -257,4 +257,4 @@ This repository serves as the official landing page for MP3 Workshop. The softwa
 **Get the most recent version of MP3 Workshop today!**
 
 ---
-**Last updated:** 2026-09-12 23:48:54 UTC
+**Last updated:** 2026-09-13 03:39:22 UTC
